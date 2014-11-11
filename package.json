@@ -1,0 +1,25 @@
+{
+  "name": "nodecalc",
+  "version": "0.0.1",
+  "description": "Node.js graphing calculator built with Express and Numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justathoughtor2/nodecalc.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "numbers"
+  ],
+  "author": "justathoughtor2",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/justathoughtor2/nodecalc/issues"
+  },
+  "homepage": "https://github.com/justathoughtor2/nodecalc"
+}
